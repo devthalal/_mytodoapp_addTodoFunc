@@ -1,0 +1,1 @@
+{"name":"addTodoFunc","type":"function","source":{"https":"https://github.com/devthalal/_mytodoapp_addTodoFunc","ssh":"git@github.com:devthalal/_mytodoapp_addTodoFunc.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
